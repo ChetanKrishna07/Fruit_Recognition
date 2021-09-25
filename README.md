@@ -7,3 +7,7 @@
 - Creating Fruit Recognition model using CNN
 ## Problems
 - Getting decent accuracy and decent performance
+## Metrics
+- Accuracy = 99.6%
+- Val_accuracy = 92.5%
+- Val_loss = 23.3%
