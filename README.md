@@ -6,4 +6,4 @@
 ## Progress
 - Creating Fruit Recognition model using CNN
 ## Problems
-- Getting good accuracy for the fruit recognition model, but doing very bad when trying to predict.
+- Getting good accuracy for the fruit recognition model, and doing decent when trying to predict.
