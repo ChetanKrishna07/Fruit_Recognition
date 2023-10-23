@@ -16,4 +16,5 @@
 - Numpy
 - Matplotlib
 
-2. python .\pred_test.py
+2. Run the following in the terminal:
+ `python .\pred_test.py`
