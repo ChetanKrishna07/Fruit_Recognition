@@ -1,11 +1,19 @@
 # Fruit_Recognition
-- Recognize if a fruit is an apple, a banana or a guava.
-- Uses Convolution Neural Networks ML model.
-- User Tensorflow library of python 
-## Progress
-- Creating Fruit Recognition model using CNN
-- Getting good accuracy for the fruit recognition model, and doing decent when trying to predict.
-## Metrics
-- Accuracy = 99.9%
-- Val_accuracy = 96.2%
-- Val_loss = 18.2%
+- Recognize if a fruit is an apple, a banana or a orange and its quality (good or rotten)
+- Uses Convolution Neural Networks model.
+- Feature Extraction by ResNet50
+
+# Results
+- Accuracy: 99.46%
+- Validation Accuracy: 99.07%
+
+- Loss: 0.0221
+- Validation Loss: 0.0281
+
+# How to run
+1. Download the nescesary libraries:
+- Tensorflow
+- Numpy
+- Matplotlib
+
+2. python .\pred_test.py
